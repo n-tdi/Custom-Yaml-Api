@@ -1,0 +1,6 @@
+name: CustomYaml
+version: '${project.version}'
+main: world.ntdi.custyml.CustomYaml
+api-version: 1.19
+author: Ntdi
+description: Create custom YAML files with this api
